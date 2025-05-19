@@ -11,7 +11,7 @@ import 'package:light_compressor/light_compressor.dart' as LC;
 import 'package:video_compress/video_compress.dart';
 import 'package:video_thumbnail/video_thumbnail.dart';
 
-import '../screen/show_dialog.dart';
+import '../screen/widgets/show_dialog.dart';
 import 'state.dart';
 
 class HomeCubit extends Cubit<HomeState> {
